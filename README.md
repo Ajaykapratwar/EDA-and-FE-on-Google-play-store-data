@@ -6,6 +6,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** and **Feature Engine
 ## 📂 Files in This Repository
 - `EDA_FE_google_play_store.ipynb` – Jupyter Notebook containing the complete EDA and Feature Engineering process.
 - `README.md` – Project documentation.
+- `google_cleaned.csv` - A csv file contain the cleaned data.
 
 ## 📊 Exploratory Data Analysis (EDA)
 - Understanding the dataset structure
